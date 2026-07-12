@@ -1,7 +1,7 @@
 # DIVERSION
 ### [LINK TO DIVERSION](https://github.com/Iamona3ds/DIVERSIONSSS/releases/tag/v1alot)
 
-
+### links: https://meow.imgui.cc/ https://api.imgui.cc/ https://www.fastflags.cloudflareaccess.com
 
 ### diversion was leaked by ________ and _______
 #### diversion is a roblox tool for fflags using proxy interception.
