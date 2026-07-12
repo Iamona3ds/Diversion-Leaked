@@ -168,3 +168,6 @@ These flags instruct Roblox to route all HTTP(S) requests through your local pro
 ## 4. open v2 or v1 flag browser and fiddler to work
 ## 5. launch roblox and make sure if its not crashing
 # Congrats! You fixed a bug)
+
+<img width="924" height="665" alt="image" src="https://github.com/user-attachments/assets/7862a444-aef1-4dac-9c18-d919f1e866c6" />
+
